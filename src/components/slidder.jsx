@@ -1,6 +1,5 @@
 import React from 'react'
 import Box from '@mui/material/Box';
-import { Grid, Skeleton } from '@mui/material';
 
 const Content = () => {
   return (
