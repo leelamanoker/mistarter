@@ -1,5 +1,4 @@
 import Stack from '@mui/material/Stack';
-import React from 'react';
 import Nav from './components/nav';
 import Content from './components/content';
 import Slide from './components/slidder'
