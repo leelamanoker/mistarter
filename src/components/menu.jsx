@@ -49,7 +49,7 @@ const Menu = () => {
               <ListItemIcon>
                 <CoffeeIcon/>
               </ListItemIcon>
-              <ListItemText primary="Juice" />
+              <ListItemText primary="Juices" />
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
