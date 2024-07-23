@@ -6,7 +6,7 @@ import CardMedia from '@mui/material/CardMedia';
 import CardContent from '@mui/material/CardContent';
 import CardActions from '@mui/material/CardActions';
 import IconButton from '@mui/material/IconButton';
-import { Favorite, MoreVert, Share } from '@mui/icons-material';
+import { Favorite, MoreVert} from '@mui/icons-material';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Rating from '@mui/material/Rating';
