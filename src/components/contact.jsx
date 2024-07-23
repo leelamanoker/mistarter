@@ -7,7 +7,7 @@ import SendIcon from '@mui/icons-material/Send';
 
  function Contact() {
   return (
-    <Box sx={{ width: '100%' }} >
+    <Box sx={{ width: '100%' }} id='Contact'>
       <Grid container rowSpacing={1} >
         <Grid xs={6}>
           <Box>

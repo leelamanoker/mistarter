@@ -6,12 +6,12 @@ import Typography from '@mui/material/Typography';
 
  function About() {
   return (
-    <Box sx={{ width: '100%' }} >
+    <Box sx={{ width: '100%' }} id="About" >
       <Grid container rowSpacing={1} >
         <Grid xs={6}>
           <Box>
             
-          <Typography variant="h3" sx={{ fontFamily: 'Raleway, Arial',fontSize: '12',color: 'black' }}>
+          <Typography variant="h3" align='center' sx={{ fontFamily: 'Raleway, Arial',fontSize: '12',color: 'black' }}>
             About Our Shop
         </Typography>   
             <p>They are amazing spots to work and try new fall items. They are lively, fun, and an enjoyable environment.   </p>
